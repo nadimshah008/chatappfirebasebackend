@@ -6,6 +6,7 @@ node_modules/
 
 # Firebase service account key (sensitive)
 serviceAccountKey.json
+bokaapp-f08ed-firebase-adminsdk-fbsvc-6372204e28.json
 
 # Logs
 logs
